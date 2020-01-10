@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Text_XML>
+	<Field stage="0" id="0" Text="###은/는 제주특별자치도 서귀포시를 둘러볼 것입니다. 제주특별자치도 서귀포시는 6.25전쟁 시기 화가 이중섭이 피난을 가서 정착한 곳입니다." char="teacher" anim="teachAnim" backImg="*" type="noneTalk" who="*"/>
+	<Field stage="0" id="1" Text="화가 이중섭이 이곳에서 어떤 삶을 살았는지, 무엇에 영감을 받아 &lt;가족&gt;, &lt;아이들 시리즈&gt; 등의 작품을 그리게 되었는지 직접 느껴봅시다." char="teacher" anim="teachAnim" backImg="*" type="noneTalk" who="*"/>
+	<Field stage="0" id="2" Text="제주특별자치도 서귀포시에서 이중섭의 자취를 찾으려면 어디로 가야할까? 이중섭 거리에서 출발해보자." char="player" anim="*" backImg="*" type="noneTalk" who="*"/>
+	<Field stage="*" id="*" Text="*" char="*" anim="*" backImg="*" type="*" who="*"/>
+	<Field stage="1" id="0" Text="이중섭 거리는, 40세의 젊은 나이에 요절한 천재 화가 이중섭을 기리기 위해 피난 당시 그가 거주했던 초가를 중심으로 조성된 거리입니다. 이중섭 거리에서 화가 이중섭의 이야기를 찾아봅시다." char="teacher" anim="teachAnim" backImg="lee_road" type="noneTalk" who="*"/>
+	<Field stage="1" id="1" Text="###은/는 제주특별자치도 서귀포시에 위치한 이중섭 거리에 도착했습니까?" char="teacher" anim="teachAnim" backImg="lee_road" type="noneTalk" who="*"/>
+	<Field stage="1" id="2" Text="이중섭 거리 내 공방과 문화예술카페 등 정보를 미리 찾아본 뒤, 방문해보자.   " char="teacher" anim="teachAnim" backImg="lee_road" type="noneTalk" who="*"/>
+	<Field stage="1" id="3" Text="이중섭 거리에서 활동하는 예술작가들을 만나볼 수 있습니다. 이들은 길거리공연을 하기도 하고 캐리커쳐를 그려주기도 합니다. 또한 토/일요일에는 문화예술디자인 시장이 열립니다. 이외에 직접 체험해볼 수 있는 미술 관련 활동을 찾아봅시다." char="teacher" anim="teachAnim" backImg="lee_road" type="noneTalk" who="*"/>
+	<Field stage="1" id="4" Text="제주특별자치도의 문화예술 특화거리인 이중섭 거리에 온 것을 환영합니다!&#xA;이중섭 거리에는 여러 예술작가들의 작업실과 공방이 있고, 맛있는 음식을 파는 가게들이 있습니다. 이곳에서 새로운 이중섭의 탄생을 기대해 볼 수 있겠죠?" char="lee" anim="*" backImg="lee_road" type="noneTalk" who="*"/>
+	<Field stage="1" id="5" Text="이중섭 거리에는 이중섭처럼 멋진 미술 작품을 만드는 현대의 예술작가들이 가득하구나." char="player" anim="*" backImg="lee_road" type="noneTalk" who="*"/>
+	<Field stage="1" id="6" Text="이중섭 거리를 걷다보면 벽면과 바닥들에 제 작품들을 재현해 놓은 것을 볼 수 있습니다. 주로 채색이 안 된 스케치 그림들인데, 제가 매우 가난했던 시절에 은박지에 그린 그림들을 본뜬 것이지요. 놓치지 말고 감상했으면 좋겠습니다." char="lee" anim="*" backImg="lee_road" type="noneTalk" who="*"/>
+	<Field stage="1" id="7" Text="이중섭이 원래 살던 곳은 함경남도 원산시라고 해. 제주도에 오기 전 청년 이중섭은 어떤 그림을 그렸을까? " char="player" anim="*" backImg="lee_road" type="noneTalk" who="*"/>
+	<Field stage="1" id="8" Text="저의 젊은 시절 대표작으로 소 그림을 꼽을 수 있지요. 제가 살던 생가에 가면 그 흔적을 찾아볼 수 있답니다." char="lee" anim="*" backImg="lee_road" type="noneTalk" who="*"/>
+	<Field stage="1" id="9" Text="###은/는 이중섭 생가에 도착했습니까?" char="teacher" anim="teachAnim" backImg="lee_road" type="noneTalk" who="*"/>
+	<Field stage="1" id="10" Text="방의 벽면에 제가 지은 시가 한 수 걸려있습니다. 찾으셨나요? 제가 직접 낭송해드리겠습니다." char="lee" anim="*" backImg="lee_road" type="noneTalk" who="*"/>
+	<Field stage="1" id="11" Text="소의 말&#xA;&#xA;높고 뚜렷하고&#xA;참된 숨결&#xA;&#xA;나려나려 이제 여기에&#xA;고웁게 나려&#xA;&#xA;두북두북 쌓이고&#xA;철철 넘치소서&#xA;&#xA;삶은 외롭고&#xA;서글프고 그리운 것&#xA;&#xA;아름답도다 여기에&#xA;맑게 두 눈 열고&#xA;&#xA;가슴 환히&#xA;해친다" char="lee" anim="*" backImg="lee_road" type="noneTalk" who="*"/>
+	<Field stage="1" id="12" Text="와! 아름다운 시야. 이중섭은 다재다능한 예술인이었구나. &lt;소의 말&gt;을 통해 화가 이중섭이 소에 대해 어떻게 생각했는지 알 것 같아. 그에게 소는 맑고 아름답고 진실하면서도, 슬프고 외로운 존재였던 것 같아. " char="player" anim="*" backImg="lee_road" type="noneTalk" who="*"/>
+	<Field stage="1" id="13" Text="전 제주특별자치도에 오기 전 오산학교에 다니던 시절, 소 그림을 많이 그렸습니다." char="lee" anim="*" backImg="lee_road" type="noneTalk" who="*"/>
+	<Field stage="1" id="14" Text="소를 통해 투철하고 강인한 우리 민족을 표현하고, 가끔은 저의 힘든 내면을 표현하곤 했습니다. 소는 제 분신이나 다름 없죠. 저는 소의 표정과 몸짓을 통해 제 의지와 마음을 표현하였습니다." char="lee" anim="*" backImg="lee_road" type="noneTalk" who="*"/>
+	<Field stage="1" id="15" Text="작품명: &lt;황소&gt;&#xA;제작연도: 1953년경&#xA;기법: 종이에 유채물감&#xA;크기: 32.3×49.5㎝&#xA;소장처: 서울, 리움 미술관&#xA;작품 소개: &lt;황소&gt;는 소의 근육과 뼈대를 굵은 붓터치로 표현하고 황색과 붉은색을 주로 사용하여 분노에 차 울부짖는 소의 표정을 더욱 강인하게 표현하였습니다. " char="player" anim="*" backImg="lee_road" type="noneTalk" who="*"/>
+	<Field stage="1" id="16" Text="&lt;황소&gt;를 잘 감상했나요? 작품의 표현 의도 또한 잘 이해했겠죠? 확인해보겠습니다!" char="lee" anim="*" backImg="lee_road" type="noneTalk" who="*"/>
+	<Field stage="1" id="17" Text="&lt;황소&gt;는 소의 익살스러움이 아닌 분노에 찬 슬픔을 강인하게 표현한 작품이다." char="teacher" anim="teachAnim" backImg="lee_road" type="noneTalk" who="*"/>
+	<Field stage="1" id="18" Text="이게 무슨 일이지? 이중섭 화가님, 어디 가셨어요?" char="player" anim="*" backImg="lee_road" type="noneTalk" who="*"/>
+	<Field stage="1" id="19" Text="6.25전쟁 장면을 보셨군요. 전쟁은 가족을 헤어지게 하고 나라를 파괴하는 참혹한 일이랍니다" char="lee" anim="*" backImg="lee_road" type="noneTalk" who="*"/>
+	<Field stage="1" id="20" Text="6.25전쟁이 발발한 후, 저희 가족은 원산을 떠나 제주특별자치도로 피난을 갔습니다. " char="lee" anim="*" backImg="lee_road" type="noneTalk" who="*"/>
+	<Field stage="1" id="21" Text="제주특별자치도에 도착한 뒤에도 생활은 여전히 힘들었지만, 돌이켜 보면 가족들이 모여 살던 그 짧은 시기가 제 인생에서 가장 행복했던 순간이기도 합니다." char="lee" anim="*" backImg="lee_road" type="noneTalk" who="*"/>
+	<Field stage="1" id="22" Text="이곳, 이중섭 생가는 저희 가족이 제주특별자치도 서귀포시에서 자리 잡고 살던 삶의 터전이지요. 1.4평 밖에 안 되는 좁은 방이지만, 둘러보시죠." char="lee" anim="*" backImg="lee_road" type="noneTalk" who="*"/>
+	<Field stage="1" id="23" Text="###은/는 이중섭 생가를 둘러보았습니까?" char="teacher" anim="teachAnim" backImg="lee_road" type="noneTalk" who="*"/>
+	<Field stage="1" id="24" Text="집이 좁지요? 저와 아내 그리고 두 아들은 제주특별자치도 서귀포시의 좁은 공간에서 함께 지냈답니다." char="lee" anim="*" backImg="lee_road" type="noneTalk" who="*"/>
+	<Field stage="1" id="25" Text="삶은 고단했지만, 이곳에서 가족과 함께 살 때가 제 인생에서는 행복했던 나날이었어요. 이때 그린 그림이 &lt;가족에 둘러싸여 그림을 그리는 화가&gt;입니다." char="lee" anim="*" backImg="lee_road" type="noneTalk" who="*"/>
+	<Field stage="1" id="26" Text="작품명: &lt;가족에 둘러싸여 그림을 그리는 화가&gt;&#xA;기법: 은박지에 유채&#xA;크기: 10 x 15 cm &#xA;작품 소개: 이중섭은 궁핍한 와중에도 늘 은박지를 들고 다니며 수많은 그림을 그려냈습니다. 이 작품은 담뱃갑 속 은박지라는 작은 화면 안에 다양한 주제가 자유롭고 강렬한 선으로 표현된 것이 특징입니다." char="player" anim="*" backImg="lee_road" type="noneTalk" who="*"/>
+	<Field stage="1" id="27" Text="작은 그림 안에 사람들이 가득 차 있어. 그림 왼쪽의 콧수염이 난 사람이 이중섭 화가이시지요? 그런데 은박지에 그림을 그리다니 기발한데요?" char="player" anim="*" backImg="lee_road" type="noneTalk" who="*"/>
+	<Field stage="1" id="28" Text="사실 은박지에 그림을 그리게 된 것은 생활고 때문입니다. 갈수록 생활은 더 힘들어져 제대로 된 미술도구를 구하기 어려워졌고, 결국 담뱃갑 속 은박지에 그림을 그리게 됐지요." char="lee" anim="*" backImg="lee_road" type="noneTalk" who="*"/>
+	<Field stage="1" id="29" Text="은박지에 그림을 어떻게 그리는지 궁금하시지요? 은박지를 잘 편 뒤, 뾰족한 도구로 선을 그리고 그 위를 물감으로 칠하면 흠 사이로 물감이 들어가 선명한 자국이 남게 되지요." char="lee" anim="*" backImg="lee_road" type="noneTalk" who="*"/>
+	<Field stage="1" id="30" Text="이처럼 그림을 그리기 어려운 상황이었지만, 가족과 함께여서 저는 너무나도 행복했습니다." char="lee" anim="*" backImg="lee_road" type="noneTalk" who="*"/>
+	<Field stage="1" id="31" Text="화가 이중섭의 작품을 화가의 삶, 그리고 표현기법의 특징과 연계하여 감상했나요? 퀴즈를 풀어 봅시다." char="teacher" anim="teachAnim" backImg="lee_road" type="noneTalk" who="*"/>
+	<Field stage="1" id="32" Text="결국 제 일본인 아내는 궁핍한 생활로 인해 두 아들과 함께 이곳을 떠나 일본으로 돌아갔고, 저는 혼자 남아 그림을 그리게 되었습니다." char="lee" anim="*" backImg="lee_road" type="noneTalk" who="*"/>
+	<Field stage="1" id="33" Text="&lt;가족&gt;이라는 작품은 그 시절 너무 외롭고 힘들 때, 슬픔에 잠겨서 가족을 생각하며 그린 작품입니다. " char="lee" anim="*" backImg="lee_road" type="noneTalk" who="*"/>
+	<Field stage="1" id="34" Text="&lt;가족&gt;은 이중섭 미술관에 소장되어 있으니, 직접 가서 실물을 감상해 볼 것을 추천합니다." char="lee" anim="*" backImg="lee_road" type="noneTalk" who="*"/>
+	<Field stage="1" id="35" Text="작품명: &lt;가족(은박지화6)&gt;&#xA;제작연도: 1954년 &#xA;기법: 은박지 &#xA;크기: 9 x 15cm &#xA;작품 소개: 이중섭의 은지화는 주로 인물, 특히 자신의 아이들과 가족의 모습을 주제로 담고 있습니다. 그리운 가족과의 추억, 꿈꿔왔던 행복한 장면 등 이중섭의 자전적인 소재를 동화적으로 표현하였으며, 이 작품도 그 중 하나입니다." char="player" anim="*" backImg="lee_road" type="noneTalk" who="*"/>
+	<Field stage="1" id="36" Text="이중섭이 제주특별자치도에 살던 시기의 작품은 가족들과 함께 살기 전과 후로 구분할 수 있겠구나. 이중섭에게 가족은 사랑 그 자체이자, 작품 창작의 원천이었어. " char="player" anim="*" backImg="lee_road" type="noneTalk" who="*"/>
+	<Field stage="1" id="37" Text="&lt;가족&gt;은 이중섭 미술관에서 직접 감상할 수 있다고 하니, 이따가 이중섭 미술관에도 방문해 봐야겠어. " char="player" anim="*" backImg="lee_road" type="noneTalk" who="*"/>
+	<Field stage="1" id="38" Text="이중섭 생가를 돌아보면서, 화가 이중섭의 행복과 아픔이 작품에 어떤 영향을 줬는지 이해할 수 있었어. 이중섭과 아이들이 행복한 시간을 보냈던 자구리 해변으로 가볼까? 그곳에서 이중섭의 아이들 시리즈에 대해 깊이 있게 감상할 수 있을거야." char="player" anim="*" backImg="lee_road" type="noneTalk" who="*"/>
+	<Field stage="1" id="39" Text="서귀포의 문화예술 트레킹코스, '작가의 산책길(유토피아로)'은 이중섭 미술관에서 소양기념관까지 이어진 길인데, 중간에 자구리 해변에 위치해있습니다. &#xA;총 거리가 4.9km, 약 4시간이 소요된다고 하니, 시간 여유가 된다면 산책로를 천천히 따라걷는 것도 좋겠습니다." char="teacher" anim="teachAnim" backImg="lee_road" type="noneTalk" who="*"/>
+	<Field stage="1" id="40" Text="이중섭에게 제주특별자치도의 자연은 또다른 영감의 원천이 되었다고 해. 이중섭과 아이들이 행복한 시간을 보냈던 자구리 해변으로 가보자!" char="player" anim="*" backImg="*" type="noneTalk" who="*"/>
+	<Field stage="*" id="*" Text="*" char="*" anim="*" backImg="*" type="*" who="*"/>
+	<Field stage="2" id="0" Text="자구리 해변은 경관이 빼어나고 사계절 용천수(땅에서 솟아나는 물)가 흐르는 곳입니다. 이곳에서 이중섭 가족은 단란한 한때를 보내곤 했습니다." char="teacher" anim="teachAnim" backImg="jagulee" type="noneTalk" who="*"/>
+	<Field stage="2" id="1" Text="###은/는 제주특별자치도 서귀포시에 위치한 자구리 해변에 도착했습니까?" char="teacher" anim="teachAnim" backImg="jagulee" type="noneTalk" who="*"/>
+	<Field stage="2" id="2" Text="서귀포 자구리 공원에서는 매해 8월경 '서귀포 자구리 축제'를 개최합니다. &#xA;미리 일정을 확인하여, 용천수가 솟구치고 빼어난 해안절경을 자랑하는 자구리 해변에서 축제를 즐겨 봅시다." char="teacher" anim="teachAnim" backImg="jagulee" type="noneTalk" who="*"/>
+	<Field stage="2" id="3" Text="자구리 해변에 도착하셨군요. 한적하고 아름다운 곳이지요?" char="lee" anim="*" backImg="jagulee" type="noneTalk" who="*"/>
+	<Field stage="2" id="4" Text="자구리 해변은 시원한 용천수가 나와 한여름에 물장구를 치며 놀기에 좋지요. 해변의 경관을 감상해보세요." char="lee" anim="*" backImg="jagulee" type="noneTalk" who="*"/>
+	<Field stage="2" id="5" Text="자구리 해변은 아름답기도 하지만, 제게 의미 있는 장소이기도 합니다." char="lee" anim="*" backImg="jagulee" type="noneTalk" who="*"/>
+	<Field stage="2" id="6" Text="서귀포시로 피난 온 저희 가족은 피난민 배급을 받아 고구마를 먹었는데, 반찬으로 마땅한 게 없었거든요." char="lee" anim="*" backImg="jagulee" type="noneTalk" who="*"/>
+	<Field stage="2" id="7" Text="그래서 저는 두 아들과 함께 자구리 해변에서 게를 잡아와 반찬으로 먹었지요." char="lee" anim="*" backImg="jagulee" type="noneTalk" who="*"/>
+	<Field stage="2" id="8" Text="게에게 고맙고 미안해서 그때부터 작품에 게를 그리기 시작했습니다." char="lee" anim="*" backImg="jagulee" type="noneTalk" who="*"/>
+	<Field stage="2" id="9" Text="혹시 자구리 해안가로 오며 사진 속 청동 작품을 발견하셨나요?" char="lee" anim="*" backImg="jagulee" type="noneTalk" who="*"/>
+	<Field stage="2" id="10" Text="자구리 해안가의 &lt;게와 아이들-그리다&gt;를 찾았습니까?&#xA;현대 예술작가 정미진은 이중섭의 작품을 모티브로 삼아 청동 작품을 제작했다고 합니다. 함께 감상해 봅시다." char="teacher" anim="teachAnim" backImg="jagulee" type="noneTalk" who="*"/>
+	<Field stage="2" id="11" Text="화가 이중섭의 작품이 현대적으로 재해석된 사례를 확인해 볼 수 있었어. 그리고 &lt;게와 아이들&gt;을 그릴 당시의 이중섭을 더욱 가깝게 느낄 수 있었어." char="player" anim="*" backImg="jagulee" type="noneTalk" who="*"/>
+	<Field stage="2" id="12" Text="작품명: &lt;게와 아이들&gt;&#xA;기법: 종이에 연필, 유채&#xA;크기: 18 x 25cm &#xA;작품 소개:  이중섭은 가족들이 떠나고 아이들이 보고싶은 그리운 마음을 달래고자 그림을 그렸습니다. 본 작품은 거친 느낌을 주는 방법으로 표현되었습니다." char="player" anim="*" backImg="jagulee" type="noneTalk" who="*"/>
+	<Field stage="2" id="13" Text="저의 두 아이들, 그리고 자구리 해변의 물고기와 게가 함께 등장한 작품인 &lt;두 아이와 물고기와 게&gt;도 감상해보시죠." char="lee" anim="*" backImg="jagulee" type="noneTalk" who="*"/>
+	<Field stage="2" id="14" Text="작품명: &lt;두 아이와 물고기와 게&gt;&#xA;기법: 종이에 먹, 수채&#xA;크기: 25.8cm x 19cm&#xA;작품 소개: 다양한 색상을 사용하여 아이들을 표현한 작품으로, 아이들의 익살스러움과 활기가 느껴지는 작품입니다." char="player" anim="*" backImg="jagulee" type="noneTalk" who="*"/>
+	<Field stage="2" id="15" Text="두 작품을 잘 감상하셨나요?" char="lee" anim="*" backImg="jagulee" type="noneTalk" who="*"/>
+	<Field stage="2" id="16" Text="후대의 사람들은 천진난만한 아이들이 등장하는 제 작품들을 '아이들 시리즈'라고 부르더군요. " char="lee" anim="*" backImg="jagulee" type="noneTalk" who="*"/>
+	<Field stage="2" id="17" Text="저는 그 명칭이 무척 맘에 듭니다.보여드린 두 작품은 같은 점과 다른 점이 있습니다. 혹시 발견하셨나요?" char="lee" anim="*" backImg="jagulee" type="noneTalk" who="*"/>
+	<Field stage="2" id="18" Text="이중섭은 아이들 시리즈에서 '아이들'이라는 동일한 대상에 대해 다양한 재료로 각기 다른 느낌을 표현했어. 대단해~!" char="player" anim="*" backImg="jagulee" type="noneTalk" who="*"/>
+	<Field stage="2" id="19" Text="정확한 지적입니다. 저는 재료가 주는 다양한 질감에 관심이 많았거든요. " char="lee" anim="*" backImg="jagulee" type="noneTalk" who="*"/>
+	<Field stage="2" id="20" Text="&lt;게와 아이들&gt;은 유채로 그려 거친 느낌을 주었고, 색상도 다채롭게 사용하였습니다. " char="lee" anim="*" backImg="jagulee" type="noneTalk" who="*"/>
+	<Field stage="2" id="21" Text="&lt;두 아이와 물고기와 게&gt;는 간결하게 스케치를 하고 화려하게 채색하여 아이들의 천진난만한 모습을 강렬하게 표현하고자 했습니다. " char="lee" anim="*" backImg="jagulee" type="noneTalk" who="*"/>
+	<Field stage="2" id="22" Text="이중섭은 아내와 두 아들에 대한 그리움을 작품으로 담아냈어. 화가 이중섭의 슬픔과 그리움이 그림 속에는 티 없는 해맑음으로 드러났다는 점이 인상적이야. " char="player" anim="*" backImg="jagulee" type="noneTalk" who="*"/>
+	<Field stage="2" id="23" Text="특히 이 자구리 해변에서 두 아들과 함께 작은 게를 잡곤 했었습니다." char="lee" anim="*" backImg="jagulee" type="noneTalk" who="*"/>
+	<Field stage="2" id="24" Text="두 아들은 무서워하면서도 옆으로 걷는 게를 신기해 하며 게잡이를 무척 재미있어 했지요. " char="lee" anim="*" backImg="jagulee" type="noneTalk" who="*"/>
+	<Field stage="2" id="25" Text="벌거벗은 아이들은 천진난만함을 상징하기도 합니다." char="lee" anim="*" backImg="jagulee" type="noneTalk" who="*"/>
+	<Field stage="2" id="26" Text="유독 제 작품에는 벌거벗은 아이들이 자주 등장합니다." char="lee" anim="*" backImg="jagulee" type="noneTalk" who="*"/>
+	<Field stage="2" id="27" Text="이는 유아기에 디프테리아로 죽은 큰아들을 잊지 못하는 그리움 때문이기도 합니다." char="lee" anim="*" backImg="jagulee" type="noneTalk" who="*"/>
+	<Field stage="2" id="28" Text="이 아이들은 제가 가족에게 보낸 엽서나, 은지화, 풍경화 작품 속에서도 쉽게 찾아볼 수 있습니다." char="lee" anim="*" backImg="jagulee" type="noneTalk" who="*"/>
+	<Field stage="2" id="29" Text="저는 서귀포시에서 11개월 가량 머물며 인생 최고의 행복과 슬픔을 동시에 느꼈습니다." char="lee" anim="*" backImg="jagulee" type="noneTalk" who="*"/>
+	<Field stage="2" id="30" Text="그리고 1년이 안 되는 기간 동안 일상 속의 제 이야기를 그림으로 많이 표현했지요." char="lee" anim="*" backImg="jagulee" type="noneTalk" who="*"/>
+	<Field stage="2" id="31" Text="aaaa" char="teacher" anim="teachAnim" backImg="jagulee" type="noneTalk" who="*"/>
+	<Field stage="2" id="32" Text="여러분도 생활 속에 표현하고 싶은 여러분의 이야기가 있다면 마음껏 표현해보길 바랍니다." char="lee" anim="*" backImg="jagulee" type="noneTalk" who="*"/>
+	<Field stage="2" id="33" Text="축하합니다! 지금까지 서귀포의 주요 장소를 살펴 보았습니다. 서귀포의 여행자로 첫 발을 떼신 걸 축하드립니다! 이제 서귀포의 또 다른 명소를 구경하러 떠나볼까요? 관광하고 싶은 곳을 자유롭게 선택하세요." char="teacher" anim="teachAnim" backImg="graveStone" type="noneTalk" who="*"/>
+	<Field stage="*" id="*" Text="*" char="*" anim="*" backImg="*" type="*" who="*"/>
+	<Field stage="3" id="0" Text="이중섭 미술관은 화가 이중섭의 높은 창작 열의와 예술혼을 후대에 전하고, 그의 예술적 발자취를 느낄 수 있는 공간을 마련하는 것을 목적으로 설립되었습니다. &#xA;이중섭 미술관에서 이중섭의 예술과 삶을 살펴볼 수 있으며, 이외에도 여러 작가들의 기획전이 개최됩니다. 얼마 전 2016년에는 이중섭 탄생 100주년을 맞이하여 다양한 행사가 개최되기도 했습니다. " char="teacher" anim="teachAnim" backImg="artMuseum" type="noneTalk" who="*"/>
+	<Field stage="3" id="1" Text="###은/는 이중섭 미술관에 도착했습니까?" char="teacher" anim="teachAnim" backImg="artMuseum" type="noneTalk" who="*"/>
+	<Field stage="3" id="2" Text="이중섭 미술관에서 다양한 경험을 하고 가길 바랍니다. " char="player" anim="*" backImg="artMuseum" type="noneTalk" who="*"/>
+	<Field stage="3" id="3" Text="미술관 내 공예공방에서는 지역 주민들의 취미 활동을 위해 단기 도예교실을 개설하고 있습니다." char="player" anim="*" backImg="artMuseum" type="noneTalk" who="*"/>
+	<Field stage="3" id="4" Text="일상에서 예술을 즐길 수 있는 기회를 얻는다는 점에서 일석이조이지요." char="player" anim="*" backImg="artMuseum" type="noneTalk" who="*"/>
+	<Field stage="3" id="5" Text="미술관 옆의 기념품관에서는 제 그림이 그려진 엽서도 판매하고 있으니 구경해보세요." char="player" anim="*" backImg="artMuseum" type="noneTalk" who="*"/>
+	<Field stage="3" id="6" Text="매주 월요일 휴관&#xA;이중섭 미술관 근처에는 창작 스튜디오가 있어 예술작가에게 편리하고 안정된 작업여건을 제공하고 있습니다. 2018년 9월 기준 50여명의 예술작가들이 이 공간을 거쳐갔습니다." char="teacher" anim="teachAnim" backImg="artMuseum" type="noneTalk" who="*"/>
+	<Field stage="3" id="7" Text="&lt;서귀포의 환상&gt;은 호암미술관에 소장되어 있습니다." char="teacher" anim="teachAnim" backImg="artMuseum" type="noneTalk" who="*"/>
+	<Field stage="3" id="8" Text="미술관에서 집중하거나 메모를 하며 작품을 감상하는 것은 훌륭한 관람 태도입니다. 그러나 사진 촬영이 허락되지 않은 곳에서 사진을 찍거나, 미술관 내에서 음식물을 먹으면 안 됩니다." char="teacher" anim="teachAnim" backImg="artMuseum" type="noneTalk" who="*"/>
+	<Field stage="*" id="*" Text="*" char="*" anim="*" backImg="*" type="*" who="*"/>
+	<Field stage="4" id="0" Text="소남머리는 제주특별자치도 서귀포시 서귀동에 위치한 공원으로, 해안절경이 일품입니다. 왜 소남머리라고 불리는지에 대한 유래는 다양한데, 멀리서보면 소의 형태를 닮았다하여 붙여졌다는 설, 소나무가 많은 동산(머리)을 의미한다는 설이 있습니다. 소남머리는 현무암으로 이루어져 있으며, 용암으로 형성된 주상절리가 일품입니다." char="teacher" anim="teachAnim" backImg="cowHead" type="noneTalk" who="*"/>
+	<Field stage="4" id="1" Text="내가 좋아하는 소가 제주특별자치도의 지형으로 존재했다니. 소와 나는 또다른 운명인가 봅니다." char="lee" anim="*" backImg="cowHead" type="noneTalk" who="*"/>
+	<Field stage="4" id="2" Text="소남머리는 바다, 나무 숲, 용천수를 한 곳에서 만날 수 있는 장소입니다. " char="teacher" anim="teachAnim" backImg="cowHead" type="noneTalk" who="*"/>
+	<Field stage="*" id="*" Text="*" char="*" anim="*" backImg="*" type="*" who="*"/>
+	<Field stage="5" id="0" Text="'섶섬'은 제주특별자치도식 표현으로, '숲섬'을 뜻합니다. 제주특별자치도 서귀포시 앞바다에서 관찰할 수 있는 섶섬은 나무가 빽빽하게 우거진 섬입니다." char="teacher" anim="teachAnim" backImg="subLand" type="noneTalk" who="*"/>
+	<Field stage="5" id="1" Text="섶섬은 제 작품의 배경이 된 장소이기도 합니다." char="player" anim="*" backImg="subLand" type="noneTalk" who="*"/>
+	<Field stage="5" id="2" Text="현재 이중섭 미술관의 위치에서 섶섬을 바라보며 &lt;섬이 보이는 풍경&gt;을 그렸지요." char="player" anim="*" backImg="subLand" type="noneTalk" who="*"/>
+	<Field stage="5" id="3" Text="이중섭 미술관 옥상에 올라가면 제 작품을 실제 풍경으로 만나볼 수 있습니다." char="player" anim="*" backImg="subLand" type="noneTalk" who="*"/>
+	<Field stage="5" id="4" Text="&lt;섬이 보이는 풍경&gt;&#xA;제작연도: 1951&#xA;기법: 합판에 유채&#xA;크기: 41 x 72cm&#xA;작품 소개: 가족과 함께 제주특별자치도 서귀포시에 정착한 후 그린 그림입니다. 다른 작품과는 달리 이중섭 특유의 과감한 선과 색보다는 사실적이고 차분한 필치가 돋보입니다." char="teacher" anim="teachAnim" backImg="subLand" type="noneTalk" who="*"/>
+	<Field stage="5" id="5" Text="섶섬을 배경으로 이중섭을 모르는 친구에게 화가 이중섭의 삶과 작품 세계를 소개하는 편지를 써봅시다. " char="teacher" anim="teachAnim" backImg="subLand" type="noneTalk" who="*"/>
+	<Field stage="*" id="*" Text="*" char="*" anim="*" backImg="*" type="*" who="*"/>
+	<Field stage="6" id="0" Text="축하합니다! '초등미술 교육관광-화가 이중섭과 함께하는 서귀포시 여행'에서 준비한 서귀포 지도를 모두 살펴 보았습니다. 당신은 서귀포의 자유 여행자가 되었습니다!" char="teacher" anim="teachAnim" backImg="*" type="noneTalk" who="*"/>
+	<Field stage="6" id="1" Text="서귀포에는 숨겨진 좋은 장소가 많답니다! 숨은 명소를 발굴하여 나만의 관광 지도를 만들어 보면 어떨까요? 내가 가는 곳이 곧 길이고 아는 만큼 보인다!&#xA;-초등미술 교육관광-화가 이중섭과 함께하는 서귀포시 여행-" char="teacher" anim="teachAnim" backImg="*" type="noneTalk" who="*"/>
+	<Field stage="*" id="*" Text="*" char="*" anim="*" backImg="*" type="*" who="*"/>
+</Text_XML>

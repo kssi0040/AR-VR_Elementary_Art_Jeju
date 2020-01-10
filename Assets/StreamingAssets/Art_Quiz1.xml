@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Social_Quiz>
+	<Field stage="0" id="0" Text="Q 1. 이중섭은 &lt;황소&gt; 작품에 다양한 색상을 사용함으로써 황소를 익살스럽고 활기차게 표현하였다. &#xA;&#xA;O/X" Type="Option" Order="O,X" answer="X"/>
+	<Field stage="0" id="1" Text="Q 2. 화가 이중섭의 은지화 작품은 어떤 기법으로 만들어졌나요?&#xA;&#xA;① 은박지 위에 물감 뿌리기&#xA;② 은박지에 선을 긋고 그 위에 물감 묻히기&#xA;③ 은박지를 뭉쳐 사물을 입체적으로 묘사하기" Type="Option" Order="1,2,3" answer="2"/>
+	<Field stage="0" id="2" Text="Q 3. 화가 이중섭의 그림을 함께 그려볼까요? " Type="puzzle" Order="*" answer="*"/>
+	<Field stage="0" id="2" Text="a" Type="puzzle" Order="puzzle1" answer="puzzle3"/>
+	<Field stage="0" id="2" Text="b" Type="puzzle" Order="puzzle2" answer="puzzle4"/>
+	<Field stage="0" id="2" Text="c" Type="puzzle" Order="puzzle3" answer="puzzle1"/>
+	<Field stage="0" id="2" Text="d" Type="puzzle" Order="puzzle4" answer="puzzle5"/>
+	<Field stage="0" id="2" Text="e" Type="puzzle" Order="puzzle5" answer="puzzle2"/>
+	<Field stage="0" id="2" Text="f" Type="puzzle" Order="puzzle6" answer="puzzle6"/>
+	<Field stage="*" id="*" Text="*" Type="*" Order="*" answer="*"/>
+	<Field stage="1" id="0" Text="Q 1. 현대 예술작가 정미진이 &lt;게와 아이들-그리다&gt;를 제작하는 데에 모티브가 된 화가 이중섭의 &lt;게와 아이들&gt;을 찾아 봅시다.&#xA;&#xA;① &lt;게와 아이들&gt; 작품 이미지&#xA;② &lt;가족&gt; 작품 이미지&#xA;③ &lt;가족에 둘러싸인 화가&gt; 작품 이미지" Type="imgOption" Order="crabAndChild,family,familyAndArtist" answer="crabAndChild"/>
+	<Field stage="1" id="1" Text="Q 2. 이중섭의 작품과 작품에 사용된 재료를 알맞게 연결해 봅시다." Type="imgLink" Order="*" answer="*"/>
+	<Field stage="1" id="1" Text="1. &lt;게와 아이들&gt; 작품 및 작품명" Type="imgLink" Order="muk" answer="pencile"/>
+	<Field stage="1" id="1" Text="2. &lt;두 아이와 물고기와 게&gt; 작품 및 작품명" Type="imgLink" Order="pencile" answer="muk"/>
+	<Field stage="1" id="2" Text="Q 3. 지금까지 감상한 화가 이중섭의 작품에서 가장 많이 등장한 소재는 무엇일까요?             &#xA;&#xA;① 가족   ② 가방  ③ 가발         " Type="Option" Order="1,2,3" answer="1"/>
+	<Field stage="*" id="*" Text="*" Type="*" Order="*" answer="*"/>
+	<Field stage="2" id="0" Text="Q 1. 다음 중 이중섭 미술관에 소장되어 있지 않은 작품은 무엇일까요?&#xA;&#xA;① &lt;가족(은박지화6)&gt;&#xA;② &lt;아이들&gt;&#xA;③ &lt;서귀포의 환상&gt;" Type="imgOption" Order="family6,child_img,island_fantasy" answer="island_fantasy"/>
+	<Field stage="2" id="1" Text="Q 2. 다음 중 미술관에서 지켜야 할 관람 태도로 올바른 것을 모두 골라봅시다. &#xA;&#xA;        1번        2번         3번         4번" Type="imgOption" Order="one,two,three,four" answer="two,four"/>
+	<Field stage="*" id="*" Text="*" Type="*" Order="*" answer="*"/>
+	<Field stage="3" id="0" Text="Q 1. 소남머리라고 불리우게 된 이유가 아닌 것은 무엇일까요?&#xA;&#xA;① 지형이 소의 머리 모양을 닮아서&#xA;② 동산에 소나무가 많아서&#xA;③ 동산에 소가 많이 살아서" Type="Option" Order="1,2,3" answer="3"/>
+	<Field stage="3" id="1" Text="Q 2. 이중섭은 자기 자신을 소에 빗대어 표현하고자 하였다. &#xA;O/X" Type="Option" Order="O,X" answer="O"/>
+	<Field stage="*" id="*" Text="*" Type="*" Order="*" answer="*"/>
+	<Field stage="4" id="0" Text="섶섬을 배경으로 이중섭을 모르는 친구에게 화가 이중섭의 삶과 작품 세계를 소개하는 편지를 써봅시다. " Type="*" Order="*" answer="*"/>
+	<Field stage="*" id="*" Text="*" Type="*" Order="*" answer="*"/>
+</Social_Quiz>
